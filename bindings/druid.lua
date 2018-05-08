@@ -3,7 +3,8 @@ if enclass ~= 'DRUID' then return end
 
 local b = {}; aBindings = b
 
-b['R'] = [[
+b['R'] = [[    
+    /run if IsShiftKeyDown() or IsControlKeyDown() or IsAltKeyDown() then return end; for z=1,172 do if IsAttackAction(z)then if not IsCurrentAction(z)then UseAction(z);end;end;end
     /cast [nomod,form:0] Wrath
     /cast [nomod,form:1] Maul
     /cast [nomod,form:3] Claw
