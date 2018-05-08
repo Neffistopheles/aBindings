@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: aBindings
+## Author: A
+## Version: 1
+## Notes: Direct macrotext-to-key bindings.
+
+bindings\druid.lua
+
+bindings.xml
+main.lua

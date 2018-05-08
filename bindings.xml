@@ -1,0 +1,302 @@
+<Bindings>
+  <Binding name='ABINDINGS1' hidden='true'>
+    if aBindings1 then
+      aBindings1:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS2' hidden='true'>
+    if aBindings2 then
+      aBindings2:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS3' hidden='true'>
+    if aBindings3 then
+      aBindings3:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS4' hidden='true'>
+    if aBindings4 then
+      aBindings4:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS5' hidden='true'>
+    if aBindings5 then
+      aBindings5:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS6' hidden='true'>
+    if aBindings6 then
+      aBindings6:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS7' hidden='true'>
+    if aBindings7 then
+      aBindings7:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS8' hidden='true'>
+    if aBindings8 then
+      aBindings8:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS9' hidden='true'>
+    if aBindings9 then
+      aBindings9:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS10' hidden='true'>
+    if aBindings10 then
+      aBindings10:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS11' hidden='true'>
+    if aBindings11 then
+      aBindings11:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS12' hidden='true'>
+    if aBindings12 then
+      aBindings12:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS13' hidden='true'>
+    if aBindings13 then
+      aBindings13:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS14' hidden='true'>
+    if aBindings14 then
+      aBindings14:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS15' hidden='true'>
+    if aBindings15 then
+      aBindings15:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS16' hidden='true'>
+    if aBindings16 then
+      aBindings16:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS17' hidden='true'>
+    if aBindings17 then
+      aBindings17:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS18' hidden='true'>
+    if aBindings18 then
+      aBindings18:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS19' hidden='true'>
+    if aBindings19 then
+      aBindings19:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS20' hidden='true'>
+    if aBindings20 then
+      aBindings20:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS21' hidden='true'>
+    if aBindings21 then
+      aBindings21:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS22' hidden='true'>
+    if aBindings22 then
+      aBindings22:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS23' hidden='true'>
+    if aBindings23 then
+      aBindings23:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS24' hidden='true'>
+    if aBindings24 then
+      aBindings24:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS25' hidden='true'>
+    if aBindings25 then
+      aBindings25:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS26' hidden='true'>
+    if aBindings26 then
+      aBindings26:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS27' hidden='true'>
+    if aBindings27 then
+      aBindings27:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS28' hidden='true'>
+    if aBindings28 then
+      aBindings28:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS29' hidden='true'>
+    if aBindings29 then
+      aBindings29:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS30' hidden='true'>
+    if aBindings30 then
+      aBindings30:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS31' hidden='true'>
+    if aBindings31 then
+      aBindings31:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS32' hidden='true'>
+    if aBindings32 then
+      aBindings32:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS33' hidden='true'>
+    if aBindings33 then
+      aBindings33:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS34' hidden='true'>
+    if aBindings34 then
+      aBindings34:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS35' hidden='true'>
+    if aBindings35 then
+      aBindings35:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS36' hidden='true'>
+    if aBindings36 then
+      aBindings36:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS37' hidden='true'>
+    if aBindings37 then
+      aBindings37:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS38' hidden='true'>
+    if aBindings38 then
+      aBindings38:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS39' hidden='true'>
+    if aBindings39 then
+      aBindings39:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS40' hidden='true'>
+    if aBindings40 then
+      aBindings40:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS41' hidden='true'>
+    if aBindings41 then
+      aBindings41:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS42' hidden='true'>
+    if aBindings42 then
+      aBindings42:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS43' hidden='true'>
+    if aBindings43 then
+      aBindings43:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS44' hidden='true'>
+    if aBindings44 then
+      aBindings44:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS45' hidden='true'>
+    if aBindings45 then
+      aBindings45:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS46' hidden='true'>
+    if aBindings46 then
+      aBindings46:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS47' hidden='true'>
+    if aBindings47 then
+      aBindings47:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS48' hidden='true'>
+    if aBindings48 then
+      aBindings48:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS49' hidden='true'>
+    if aBindings49 then
+      aBindings49:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS50' hidden='true'>
+    if aBindings50 then
+      aBindings50:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS51' hidden='true'>
+    if aBindings51 then
+      aBindings51:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS52' hidden='true'>
+    if aBindings52 then
+      aBindings52:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS53' hidden='true'>
+    if aBindings53 then
+      aBindings53:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS54' hidden='true'>
+    if aBindings55 then
+      aBindings54:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS55' hidden='true'>
+    if aBindings55 then
+      aBindings55:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS56' hidden='true'>
+    if aBindings56 then
+      aBindings56:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS57' hidden='true'>
+    if aBindings57 then
+      aBindings57:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS58' hidden='true'>
+    if aBindings58 then
+      aBindings58:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS59' hidden='true'>
+    if aBindings59 then
+      aBindings59:Click()
+    end
+  </Binding>
+  <Binding name='ABINDINGS60' hidden='true'>
+    if aBindings60 then
+      aBindings60:Click()
+    end
+  </Binding>
+</Bindings>
